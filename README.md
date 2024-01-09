@@ -2,6 +2,6 @@ This is the project of the "Introduction to Machine Learning" course from MIAGE 
 
 You can find the project report written in French "Projet_Rapport"
 
-**Contributors
+##Contributors
 * Mustapha Doubabi
 * Pierre Neveu
